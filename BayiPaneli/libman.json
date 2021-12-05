@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "font-awesome@4.7.0",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "nprogress@0.2.0",
+      "destination": "wwwroot/lib/nprogress/"
+    },
+    {
+      "library": "malihu-custom-scrollbar-plugin@3.1.5",
+      "destination": "wwwroot/lib/malihu-custom-scrollbar-plugin/"
+    },
+    {
+      "library": "fastclick@1.0.6",
+      "destination": "wwwroot/lib/fastclick/"
+    }
+  ]
+}
